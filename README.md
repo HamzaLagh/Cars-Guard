@@ -11,7 +11,7 @@
 3. Create a `.env` file and add the following environment variables:
    ```
    MONGO_URI=mongodb://localhost:27017/projet-vehicule
-   JWT_SECRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImhhbXphIGxhZ2huaW1pIiwiaWF0IjoxNTE2MjM5MDIyfQ.6QNmyBTfX5wNKZhw8ITaQqAbdd5TU6Gk5SCQzrc0gcM
+   JWT_SECRET=secret
    ```
 
 4. Start the server:
